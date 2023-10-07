@@ -6,16 +6,13 @@ public class RectangleArea {
         int width;
 
         // (b) initialize them with an integer value from 5to 10
-        length = 6; // You can change this value between 5 and 10
-        width = 7;  // You can change this value between 5 and 10
+        length = 6; //
+        width = 7;  //
         // (c) declare a third variable to calculate the area
         int area;
 // (d) initialize the area variable as (length * width)
         area = length * width;
-        {
-            // (e) display the area value
-            System.out.println("The area of the rectangle is: " + area);
-        }
+
     }
 }
 
